@@ -6,4 +6,3 @@ resource "local_file" "pet" {
 
 # Run terraform apply with auto-approval
 terraform apply -auto-approve
-
